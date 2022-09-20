@@ -14,9 +14,9 @@ First of all, thank you for the great assessment, I had a blast while doing it!
 - There is 1 failing test, which is on purpose, because the behaviour is not as expected (BDD approach)
 
 ## Running the test
-1 - Start the server by running `npm run start` or `ng serve`
-1 - Either run `npm run cy:open`
-2 - Or use `npm run cy:run` for headless
+- Start the server by running `npm run start` or `ng serve`
+- Either run `npm run cy:open`
+- Or use `npm run cy:run` for headless
 
 ## Remarks
 - Both Angular + TypeScript are faily new for me (coming from plain JS + React/Vue), so forgive me for any noob errors regarding this
