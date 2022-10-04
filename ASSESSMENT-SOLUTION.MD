@@ -14,6 +14,8 @@ First of all, thank you for the great assessment, I had a blast while doing it!
 - There is 1 failing test, which is on purpose, because the behaviour is not as expected (BDD approach)
 
 ## Running the test
+- Use Node version 16.x.x (e.g. 16.15.1) as Cypress 10 is used
+- Install NPM dependencies `npm install`
 - Start the server by running `npm run start` or `ng serve`
 - Either run `npm run cy:open`
 - Or use `npm run cy:run` for headless
